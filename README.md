@@ -4,4 +4,4 @@ TripleX is a game that will generate two numbers - a sum and a product. The user
 
 ## Contributing
 
-You're welcome to download, fork or do whatever else legal with all the files!
+You're welcome to download, fork, or do whatever else legal with all the files!
